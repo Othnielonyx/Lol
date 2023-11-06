@@ -16,7 +16,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/programming-jokes-website.git
+git clone https://github.com/Othnielonyx/programming-jokes-website.git
 Change your working directory to the project folder:
 
 bash
